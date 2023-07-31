@@ -1,0 +1,4 @@
+A is a Proper Fraction.
+B is a Improper Fraction.
+2/3 * 2 
+1 1/3

@@ -1,0 +1,4 @@
+A is a Improper Fraction.
+B is a Proper Fraction.
+11 4/9 + 5/189
+11 89/189
